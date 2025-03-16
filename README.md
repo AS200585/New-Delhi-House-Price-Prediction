@@ -16,12 +16,12 @@ This project predicts house prices in New Delhi using Linear Regression on the M
 - **Model:** Linear Regression with `StandardScaler`.
 
 ## Results
-- R²: 0.702
+- R-squared: 0.702
 
 ## References
 - [MagicBricks Dataset]([https://www.kaggle.com/datasets/username/magicbricks](https://www.kaggle.com/datasets/jatin31/house-price-prediction-delhi-magicbricks))
 - [Scikit-Learn](https://scikit-learn.org/stable/user_guide.html)
 - [NumPy](https://numpy.org/)
-- [Pandas]([https://numpy.org/](https://pandas.pydata.org/docs/user_guide/index.html#user-guide)
+- [Pandas](https://pandas.pydata.org/docs/user_guide/index.html#user-guide)
 - [Matplotlib](https://matplotlib.org/stable/users/index.html)
 - [Seaborn](https://seaborn.pydata.org/tutorial.html)
